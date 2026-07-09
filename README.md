@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hi, I'm Fazia 👋
 
 I'm interested in NLP, machine learning, and misinformation research — particularly how AI and LLMs can support fact-checking and content moderation.

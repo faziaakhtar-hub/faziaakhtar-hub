@@ -18,7 +18,3 @@ I'm interested in NLP, machine learning, and misinformation research — particu
 - Akhtar, F., Munir, A. "Digital Solo-Journalism and the Ethical Concerns: A Perception Analysis of Urdu Journalists in Pakistan." *Two Centuries of Urdu Journalism* — First International Media and Communication Conference (2022)
 
 📫 Reach me at: fazia.akhtar@fuuast.edu.pk | faziaakhtar@gmail.com
-
-- 
-- ⚡ Fun fact: ...
--->
